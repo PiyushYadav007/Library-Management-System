@@ -1,0 +1,8 @@
+                Library Management System 
+                   Returned By: Ram
+    Date: 2022-08-25    Time:18:29:10.924530
+
+S.N.		Bookname		Cost
+1		Harry Potter		$2
+3		Programming With Python		$1.5
+					Total: $3.5
